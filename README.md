@@ -9,7 +9,7 @@ Currency converter that uses the Exchange Rate API to convert the following curr
   <img src="https://github.com/JoseGayosoNeto/python_currency_converter/assets/93017687/3b7016d4-8bc0-40d9-9b84-2e16dc461154" width="450" height="450">
 </p>
 
-##Getting Started
+## Getting Started
 
 ### Dependencies
 
